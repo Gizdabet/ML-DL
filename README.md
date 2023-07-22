@@ -14,7 +14,7 @@ This repository contains the submission for the final project of Machine Learnin
 
 1. **Data**:The dataset was collected through direct marketing campaigns of a bank in Portugal from May 2008 to November 2010. It contains 41,188 samples with 21 attributes, including customer information, details about bank products, and other evaluation variables.
 2. **Data preprocessing**:Prepocess data to prepare the data for analytics functions and obtain the best possible insights.
-3. **Clustering**: Apply K-Nearest Neighbor and Support Vector Machine
+3. **Classification**: Apply K-Nearest Neighbor and Support Vector Machine
 4. **Deep Learning**:Create a dictionary containing 6 hyperparameters(batch_size, dropout_rate, epochs, neurons, reg_strength, weight_constraint) and then use GridSearchCV to select the best set of hyperparameters for the Artificial Neural Network (ANN) model that achieves the highest performance.
 
 ## Result
